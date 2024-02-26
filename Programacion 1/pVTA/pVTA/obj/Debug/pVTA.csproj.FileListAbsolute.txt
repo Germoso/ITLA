@@ -1,0 +1,24 @@
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\bin\Debug\pVTA.exe.config
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\bin\Debug\pVTA.exe
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\bin\Debug\pVTA.pdb
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\obj\Debug\pVTA.csproj.AssemblyReference.cache
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\obj\Debug\pVTA.Properties.Resources.resources
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\obj\Debug\pVTA.csproj.GenerateResource.cache
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\obj\Debug\pVTA.csproj.CoreCompileInputs.cache
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\obj\Debug\pVTA.exe
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\obj\Debug\pVTA.pdb
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\obj\Debug\pVTA.frmStarts.resources
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\obj\Debug\pVTA.frmMenu.resources
+C:\ITLA 2024\PRG1 SC12\pVTA\pVTA\obj\Debug\pVTA.frmUsuario.resources
+E:\ITLA\Programacion 1\pVTA\pVTA\bin\Debug\pVTA.exe.config
+E:\ITLA\Programacion 1\pVTA\pVTA\bin\Debug\pVTA.exe
+E:\ITLA\Programacion 1\pVTA\pVTA\bin\Debug\pVTA.pdb
+E:\ITLA\Programacion 1\pVTA\pVTA\obj\Debug\pVTA.csproj.AssemblyReference.cache
+E:\ITLA\Programacion 1\pVTA\pVTA\obj\Debug\pVTA.frmMenu.resources
+E:\ITLA\Programacion 1\pVTA\pVTA\obj\Debug\pVTA.frmStarts.resources
+E:\ITLA\Programacion 1\pVTA\pVTA\obj\Debug\pVTA.frmUsuario.resources
+E:\ITLA\Programacion 1\pVTA\pVTA\obj\Debug\pVTA.Properties.Resources.resources
+E:\ITLA\Programacion 1\pVTA\pVTA\obj\Debug\pVTA.csproj.GenerateResource.cache
+E:\ITLA\Programacion 1\pVTA\pVTA\obj\Debug\pVTA.csproj.CoreCompileInputs.cache
+E:\ITLA\Programacion 1\pVTA\pVTA\obj\Debug\pVTA.exe
+E:\ITLA\Programacion 1\pVTA\pVTA\obj\Debug\pVTA.pdb
